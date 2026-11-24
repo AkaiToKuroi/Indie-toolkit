@@ -1,0 +1,11 @@
+{
+    "name": "Akaitokuroi.Indietoolkit.Tests",
+    "references": [
+        "Akaitokuroi.Indietoolkit"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

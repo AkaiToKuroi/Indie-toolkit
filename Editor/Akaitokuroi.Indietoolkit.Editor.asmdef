@@ -1,0 +1,10 @@
+{
+    "name": "Akaitokuroi.Indietoolkit.Editor",
+    "references": [
+      "Akaitokuroi.Indietoolkit"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

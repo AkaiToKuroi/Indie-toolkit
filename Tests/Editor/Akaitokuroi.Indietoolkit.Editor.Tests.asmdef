@@ -1,0 +1,14 @@
+{
+    "name": "Akaitokuroi.Indietoolkit.Editor.Tests",
+    "references": [
+        "Akaitokuroi.Indietoolkit.Editor",
+        "Akaitokuroi.Indietoolkit"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
